@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://yusuf371-dotcom.github.io/bevakgaharuassue/sitemap.xml
