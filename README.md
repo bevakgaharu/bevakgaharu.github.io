@@ -2,7 +2,7 @@
 
 Teduh, tumbuh bersama.
 
-Alamat: https://yusuf371-dotcom.github.io/bevakgaharuassue/
+Alamat: https://bevakgaharu.github.io/
 
 Website ini satu berkas `index.html` (logo, lukisan, dan isi sudah ada di dalamnya) yang diterbitkan dengan GitHub Pages dari cabang `main`.
 
